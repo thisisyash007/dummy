@@ -1,0 +1,4 @@
+classes=1
+train=D:/Homedepo_Training/Object-Detection-YOLO-master/customdata/train.txt
+valid=D:/Homedepo_Training/Object-Detection-YOLO-master/customdata/test.txt
+names=D:/Homedepo_Training/Object-Detection-YOLO-master/custom.names
